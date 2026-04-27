@@ -1,4 +1,4 @@
-# QEMT - Quantum Entangled Multiplexing Transceiver
+# EMT - Entangled Multiplexing Transceiver
 
 an FTL communications system utilising:
 
