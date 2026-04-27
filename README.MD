@@ -1,15 +1,11 @@
-# QEMT - Quantum Entangled Multiplexing Transceiver
+# EMT - Entangled Multiplexing Transceiver
 
 an FTL communications system utilising:
 
 * photon orientation
-* virtual alpha-numeric ring
+* virtual alpha-numeric-symbol ring
 * weak measurement by laser
 * magnetic orientation manipulation
-
-
-
-
 
 
 
@@ -32,7 +28,7 @@ an FTL communications system utilising:
 
 
 
-# Advanced Concepts \& Designs:
+# Advanced Concepts & Designs:
 
 ```
 
